@@ -85,7 +85,7 @@ button:hover{
   color: var(--Gray-100);
 }
 
-@media (width > 768px) {
+@media (width > 1023px) {
   main{
     grid-template-columns: repeat(3, 1fr);
     width: 1000px;
